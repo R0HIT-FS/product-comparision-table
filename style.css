@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+caption{
+    font-size: 40px;
+    color: black;
+}
+table{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: larger;
+}
+thead{
+    background-color: white;
+}
+tbody{
+            background-color: white;
+
+        }
+
+tbody td{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+table{
+            background-color:black;
+        }
+
+img{
+    padding: 3px;
+    height: 250px;
+    width: 250px;
+}
+.center{
+    text-align: center;
+}
+thead th{
+    padding: 11px;
+}
+.grey{
+    background-color: grey;
+}
